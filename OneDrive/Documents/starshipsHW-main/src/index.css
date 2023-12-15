@@ -1,0 +1,28 @@
+.container {
+  border:  2px solid rgb(57, 14, 4);
+  display: flex;
+    
+  justify-content: center;  
+  /* flex-flow: wrap; */  
+  flex-wrap: wrap; 
+
+ 
+  height: 100%;
+  padding: 15px;
+  gap: 5px;
+  
+}
+
+.ship {
+
+  height: 100px;
+  width: 100px;
+  border:  2px solid rgb(158, 38, 38);
+  color: white;
+  background-color: rgb(175, 11, 11);
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
